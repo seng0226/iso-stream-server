@@ -4,7 +4,7 @@ iso data streaming server to visualize through Unity3D. The `*.iso` file should 
 # Quick Installation
 
 ```
-git clone https://github.com/seng0226/unity-knd.git
+git clone https://github.com/seng0226/iso-stream-server.git
 sh run_flask_app.sh
 ```
 + Required : docker, python3.9
