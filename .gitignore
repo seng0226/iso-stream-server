@@ -1,0 +1,5 @@
+static/*
+iso_verification.txt
+*.log
+*/__pycache__
+__pycache__
