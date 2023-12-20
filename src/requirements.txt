@@ -2,3 +2,4 @@ Flask==2.2.2
 Flask-Cors==3.0.10
 watchdog==3.0.0
 flasgger
+Werkzeug==2.2.2
